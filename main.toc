@@ -5,7 +5,7 @@
 \contentsline {section}{\numberline {3}Grafos}{1}
 \contentsline {subsection}{\numberline {3.1}Componentes fortemente conexas (SCC)}{1}
 \contentsline {subsection}{\numberline {3.2}Caminho Euleriano}{1}
-\contentsline {section}{\numberline {4}Programa\IeC {\c c}\IeC {\~a}o din\IeC {\^a}mica}{1}
-\contentsline {subsection}{\numberline {4.1}Mochila}{1}
-\contentsline {subsection}{\numberline {4.2}Moedas}{1}
+\contentsline {section}{\numberline {4}Programa\IeC {\c c}\IeC {\~a}o din\IeC {\^a}mica}{2}
+\contentsline {subsection}{\numberline {4.1}Mochila}{2}
+\contentsline {subsection}{\numberline {4.2}Moedas}{2}
 \contentsline {subsection}{\numberline {4.3}Troco}{2}
