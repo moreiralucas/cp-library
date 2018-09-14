@@ -1,11 +1,19 @@
 \contentsline {section}{\numberline {1}Template}{1}
 \contentsline {subsection}{\numberline {1.1}C\IeC {\'o}digo do Template}{1}
-\contentsline {section}{\numberline {2}Matem\IeC {\'a}tica}{1}
-\contentsline {subsection}{\numberline {2.1}Geometria}{1}
-\contentsline {section}{\numberline {3}Grafos}{1}
-\contentsline {subsection}{\numberline {3.1}Componentes fortemente conexas (SCC)}{1}
-\contentsline {subsection}{\numberline {3.2}Caminho Euleriano}{1}
-\contentsline {section}{\numberline {4}Programa\IeC {\c c}\IeC {\~a}o din\IeC {\^a}mica}{2}
-\contentsline {subsection}{\numberline {4.1}Mochila}{2}
-\contentsline {subsection}{\numberline {4.2}Moedas}{2}
-\contentsline {subsection}{\numberline {4.3}Troco}{2}
+\contentsline {subsection}{\numberline {1.2}Script de submiss\IeC {\~a}o}{1}
+\contentsline {subsection}{\numberline {1.3}Script em python}{1}
+\contentsline {section}{\numberline {2}Matem\IeC {\'a}tica}{2}
+\contentsline {subsection}{\numberline {2.1}Geometria}{2}
+\contentsline {subsection}{\numberline {2.2}Exponencia\IeC {\c c}\IeC {\~a}o}{2}
+\contentsline {subsection}{\numberline {2.3}Divisores}{2}
+\contentsline {section}{\numberline {3}Grafos}{2}
+\contentsline {subsection}{\numberline {3.1}Componentes fortemente conexas (SCC)}{2}
+\contentsline {subsection}{\numberline {3.2}Caminho Euleriano}{2}
+\contentsline {subsection}{\numberline {3.3}LCA (Menor Ancestral Comum)}{3}
+\contentsline {subsection}{\numberline {3.4}Dijkstra (Caminhos m\IeC {\'\i }nimos)}{3}
+\contentsline {subsection}{\numberline {3.5}Fluxo}{3}
+\contentsline {section}{\numberline {4}Programa\IeC {\c c}\IeC {\~a}o din\IeC {\^a}mica}{4}
+\contentsline {subsection}{\numberline {4.1}Mochila}{4}
+\contentsline {subsection}{\numberline {4.2}Moedas}{4}
+\contentsline {subsection}{\numberline {4.3}Troco}{4}
+\contentsline {subsection}{\numberline {4.4}Segtree}{4}

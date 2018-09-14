@@ -10,6 +10,11 @@ bool DEBUG = false;
 #define pb push_back
 #define vi vector<int>
 #define INF (int)(1e9*2)
+#define fori(N) for (int i = 0; i < N; ++i)
+#define size(x) (int)x.size()
+#define endl '\n'
+#define PI 3.14159265358979323846
+
 #define SYNC ios_base::sync_with_stdio(false), cin.tie(NULL), cout.tie(NULL)
 
 using namespace std;
