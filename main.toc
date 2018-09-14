@@ -6,14 +6,16 @@
 \contentsline {subsection}{\numberline {2.1}Geometria}{2}
 \contentsline {subsection}{\numberline {2.2}Exponencia\IeC {\c c}\IeC {\~a}o}{2}
 \contentsline {subsection}{\numberline {2.3}Divisores}{2}
-\contentsline {section}{\numberline {3}Grafos}{2}
-\contentsline {subsection}{\numberline {3.1}Componentes fortemente conexas (SCC)}{2}
-\contentsline {subsection}{\numberline {3.2}Caminho Euleriano}{2}
+\contentsline {subsection}{\numberline {2.4}Permuta\IeC {\c c}\IeC {\~o}es}{2}
+\contentsline {section}{\numberline {3}Grafos}{3}
+\contentsline {subsection}{\numberline {3.1}Componentes fortemente conexas (SCC)}{3}
+\contentsline {subsection}{\numberline {3.2}Caminho Euleriano}{3}
 \contentsline {subsection}{\numberline {3.3}LCA (Menor Ancestral Comum)}{3}
 \contentsline {subsection}{\numberline {3.4}Dijkstra (Caminhos m\IeC {\'\i }nimos)}{3}
-\contentsline {subsection}{\numberline {3.5}Fluxo}{3}
+\contentsline {subsection}{\numberline {3.5}Fluxo}{4}
+\contentsline {subsection}{\numberline {3.6}DisjointSet}{4}
 \contentsline {section}{\numberline {4}Programa\IeC {\c c}\IeC {\~a}o din\IeC {\^a}mica}{4}
 \contentsline {subsection}{\numberline {4.1}Mochila}{4}
 \contentsline {subsection}{\numberline {4.2}Moedas}{4}
-\contentsline {subsection}{\numberline {4.3}Troco}{4}
-\contentsline {subsection}{\numberline {4.4}Segtree}{4}
+\contentsline {subsection}{\numberline {4.3}Troco}{5}
+\contentsline {subsection}{\numberline {4.4}Segtree}{5}

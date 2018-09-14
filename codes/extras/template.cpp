@@ -14,7 +14,6 @@ bool DEBUG = false;
 #define size(x) (int)x.size()
 #define endl '\n'
 #define PI 3.14159265358979323846
-
 #define SYNC ios_base::sync_with_stdio(false), cin.tie(NULL), cout.tie(NULL)
 
 using namespace std;
@@ -24,3 +23,6 @@ int32_t main() {
 	// Code
     return 0;
 }
+//troque o int por qualquer outro tipo primitivo
+// numeric_limits<int>::max() //retorna limite maximo do tipo int
+// numeric_limits<int>::lowest() // retorna limite minimo do tipo int
